@@ -5,9 +5,90 @@
     <description>Long Form Jekyll theme built with SASS / COMPASS / SUSY</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 04 Nov 2020 06:35:56 +0900</pubDate>
-    <lastBuildDate>Wed, 04 Nov 2020 06:35:56 +0900</lastBuildDate>
+    <pubDate>Wed, 04 Nov 2020 22:50:22 +0900</pubDate>
+    <lastBuildDate>Wed, 04 Nov 2020 22:50:22 +0900</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      
+      <item>
+        <title>learning Plan</title>
+        <description>&lt;h1 id=&quot;학습계획&quot;&gt;학습계획&lt;/h1&gt;
+
+&lt;h3 id=&quot;자료구조--알고리즘&quot;&gt;자료구조 &amp;amp; 알고리즘&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;기초
+    &lt;ul&gt;
+      &lt;li&gt;파이썬 자료구조와 알고리즘(2020/11/04)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;실습
+    &lt;ul&gt;
+      &lt;li&gt;해커랭크&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;데이터-처리-언어python-or-r&quot;&gt;데이터 처리 언어(Python or R)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;기초
+    &lt;ul&gt;
+      &lt;li&gt;파이썬으로 웹 크롤러 만들기&lt;/li&gt;
+      &lt;li&gt;파이썬 머신러닝 완벽 가이드&lt;/li&gt;
+      &lt;li&gt;R을 이용한 데이터 처리 &amp;amp; 분석 실무&lt;/li&gt;
+      &lt;li&gt;단단한 머신러닝&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;실습&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;os&quot;&gt;OS&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;기초
+    &lt;ul&gt;
+      &lt;li&gt;김태용의 리눅스 쉘스크립트 프로그래밍 입문&lt;/li&gt;
+      &lt;li&gt;시작하세요! 하둡 프로그래밍&lt;/li&gt;
+      &lt;li&gt;하둡 완벽 가이드&lt;/li&gt;
+      &lt;li&gt;실전 하둡 운용 가이드&lt;/li&gt;
+      &lt;li&gt;나쁜 데이터 핸드북&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;실습
+    &lt;ul&gt;
+      &lt;li&gt;AWS&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;sql&quot;&gt;SQL&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;기초
+    &lt;ul&gt;
+      &lt;li&gt;SQL 코딩의 기술&lt;/li&gt;
+      &lt;li&gt;데이터 분석을 위한 SQL 레시피&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;실습
+    &lt;ul&gt;
+      &lt;li&gt;해커랭크&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        
+          <description>&lt;h1 id=&quot;학습계획&quot;&gt;학습계획&lt;/h1&gt;
+</description>
+        
+        <pubDate>Wed, 04 Nov 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/blog/learning-plan/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/learning-plan/</guid>
+        
+        
+      </item>
+      
     
       
       <item>
